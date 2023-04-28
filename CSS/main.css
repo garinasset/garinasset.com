@@ -1,0 +1,68 @@
+body {
+    background: #ffffff;
+    color: #000080;
+}
+
+.big {
+    font-size: 2.1rem;
+}
+
+.mideum {
+    font-size: 1.3rem;
+}
+
+.small {
+    font-size: 0.5rem;
+}
+
+.fine {
+    font-size: 0.9rem;
+}
+
+a:link {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+.header {
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+}
+
+td {
+    vertical-align: top;
+    width: 50%;
+}
+
+.tr-height-one {
+    height: 7vh;
+}
+
+.tr-height-two {
+    height: 6vh;
+}
+
+.guild {
+    text-align: center;
+    font-size: 0.4rem;
+    line-height: 1.1rem;
+}
+
+.feedback {
+    font-size: 0.8rem;
+}
+
+.disclaimer {
+    font-size: 0.8rem;
+}
+
+.copyright {
+    font-size: 0.8rem;
+}
