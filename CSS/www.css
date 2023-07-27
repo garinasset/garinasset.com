@@ -1,0 +1,80 @@
+body {
+    background: #ffffff;
+    color: #000080;
+}
+
+.big {
+    font-size: 2.1rem;
+}
+
+.mideum {
+    font-size: 1.3rem;
+}
+
+.small {
+    font-size: 0.5rem;
+}
+
+.fine {
+    font-size: 0.9rem;
+}
+
+a:link {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+.header {
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+}
+
+td {
+    vertical-align: top;
+    width: 50%;
+}
+
+.tr-height-one {
+    height: 7vh;
+}
+
+.tr-height-two {
+    height: 6vh;
+}
+
+.title {
+    text-align: center;
+    font-size: 1.0rem;
+    line-height: 1rem;
+}
+
+.branding {
+    text-align: center;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+}
+
+.download {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 0.4rem;
+}
+
+.feedback {
+    font-size: 0.8rem;
+}
+
+.disclaimer {
+    font-size: 0.8rem;
+}
+
+.copyright {
+    font-size: 0.8rem;
+}
